@@ -1,9 +1,9 @@
 '''
-TC: O(max(n, m))
+TC: O(N + M)
     n: length of l1
     m: length of l2
     
-MC: O(max(n, m))
+MC: O(N + M)
 '''
 
 class Solution:
